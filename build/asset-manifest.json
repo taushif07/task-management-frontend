@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.166d9dd8.css",
+    "main.js": "/static/js/main.d6853dc2.js",
+    "static/js/787.2843ca88.chunk.js": "/static/js/787.2843ca88.chunk.js",
+    "static/media/taskNinjaLogo.jpg": "/static/media/taskNinjaLogo.aef80241cc33f64baa22.jpg",
+    "index.html": "/index.html",
+    "main.166d9dd8.css.map": "/static/css/main.166d9dd8.css.map",
+    "main.d6853dc2.js.map": "/static/js/main.d6853dc2.js.map",
+    "787.2843ca88.chunk.js.map": "/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.166d9dd8.css",
+    "static/js/main.d6853dc2.js"
+  ]
+}
