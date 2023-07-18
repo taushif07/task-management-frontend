@@ -48,7 +48,7 @@ function TodoCard({ data, index }) {
 }
 
     const handleDelete = (taskId) => {
-      axios.delete(`/${taskId}`)
+      axios.delete(`https://appmctaskmanagementsettyl.onrender.com/todos/${taskId}`)
           .then(() => {
               // Refresh the task list after successful deletion
               // You can either re-fetch the data from the server or filter the deleted task out of the current state.
